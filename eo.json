@@ -1,0 +1,4 @@
+{
+  "imageOf": "[Îɱåĝé <strong>{imageNumber, number}</strong> öƒ {imageCount, number}]",
+  "imageOfWithStyle": "[Îɱåĝé <strong>{imageNumber, number,##}</strong> öƒ {imageCount, number,##}]"
+}
