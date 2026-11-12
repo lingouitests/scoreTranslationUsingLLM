@@ -1,0 +1,4 @@
+{
+  "imageOf": "Image <strong>{imageNumber, number}</strong> of {imageCount, number}",
+  "plain": "Hello world"
+}
