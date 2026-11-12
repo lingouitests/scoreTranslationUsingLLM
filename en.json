@@ -1,4 +1,0 @@
-{
-  "birthday": "It's my {gender, select, female {daughter's} male {son's} other {child's}} {year, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} birthday!",
-  "messages.ordinal": "{count, selectordinal, one {1st message} two {2nd message} few {3rd message} other {#th message}}"
-}
