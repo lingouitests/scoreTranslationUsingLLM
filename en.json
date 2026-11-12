@@ -1,7 +1,0 @@
-{
-  "sub-heading": "Remembering relatives who died in the month of {month}",
-  "LAST_MODIFIED_BY": "{expires, date, medium} by {user}",
-  "title_placeholder": "Lesson {number} ({date, date, long})",
-  "imageOf": "Image <strong>{imageNumber, number}</strong> of {imageCount, number}",
-  "filmDisplayingCount": "(This family history center has {locationCount, number} of {totalCount, number} films/fiche.)"
-}
