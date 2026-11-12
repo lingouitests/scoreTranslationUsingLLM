@@ -1,0 +1,4 @@
+{
+  "items": "{count, plural, zero {no items} one {# item} two {# items (two)} few {# items (few)} many {# items (many)} other {# items}}",
+  "plain": "Hello world"
+}
