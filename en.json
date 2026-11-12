@@ -1,4 +1,0 @@
-{
-  "candies": "{count,plural, =0 {No candy left} one {Got # candy left} other {Got # candies left}}",
-  "messages": "{count, plural, one {# Message} other {# Messages}}"
-}
