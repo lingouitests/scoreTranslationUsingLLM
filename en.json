@@ -1,4 +1,0 @@
-{
-  "capture": "{gender, select, female {{{{ {count, plural, =0 {She didn't capture any} one {She only captured one} other {She captured #}}}other {{  count, plural, =0 {He didn't capture any}  one {He only captured one}  other {He captured #}}}}",
-  "plain": "Hello world"
-}
