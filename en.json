@@ -1,0 +1,4 @@
+{
+  "imageOf": "Image <strong>{imageNumber, number}</strong> of {imageCount, number}",
+  "imageOfWithStyle": "Image <strong>{imageNumber, number,##}</strong> of {imageCount, number,##}"
+}
