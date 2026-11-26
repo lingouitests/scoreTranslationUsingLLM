@@ -1,2 +1,2 @@
-La pomme est douce, juteuse et croquante.
+La pomme <b>est {douce
 La mangue est mure.
