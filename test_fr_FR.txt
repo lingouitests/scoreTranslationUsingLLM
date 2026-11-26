@@ -1,2 +1,0 @@
-La pomme <b>est {douce
-La mangue est mure.
